@@ -1,4 +1,4 @@
-# DEVOPS2025
+# DEVOPS2025 Update 2
 Feb 2025 DEVOPS Training 
 # React & Java Full-Stack Application
 
